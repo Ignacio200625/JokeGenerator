@@ -9,4 +9,6 @@ export default defineConfig({
   build: {
     outDir: "../docs", // Los archivos construidos irán a la carpeta "docs"
   },
+
+  
 })
